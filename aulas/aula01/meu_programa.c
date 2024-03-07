@@ -14,10 +14,10 @@ int main () {
 
   printf("A média final é %.1f", media);
 
-  if (media >= 5.0) {
+  if(media >= 5.0) {
     printf("Passei!\n");
   } else {
     printf("Vamos de P3\n");
-
+  }
   return 0;
 }
