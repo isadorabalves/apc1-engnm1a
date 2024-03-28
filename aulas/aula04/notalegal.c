@@ -21,4 +21,3 @@ int main(){
   printf("%-17s %02i %13.2f\n", nome, quantidade, valor);
   
   return 0;
-}
